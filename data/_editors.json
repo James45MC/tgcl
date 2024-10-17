@@ -8,10 +8,22 @@
         "role": "admin",
         "name": "cataclysm guy",
         "link": "https://www.youtube.com/@cataclysmguy"
+      
+    },
+    {
+        "role": "admin",
+        "name": "MiniKey",
+        "link": "https://www.youtube.com/@minikey1692"
+      
     },
     {
         "role": "helper",
         "name": "CurtaGD",
         "link": "https://www.youtube.com/@CurtaGD"
+    },
+    {
+        "role": "helper",
+        "name": "GlacialGMD",
+        "link": "https://www.youtube.com/@TherealGlacialGD"
     }
 ]
